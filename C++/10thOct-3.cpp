@@ -28,4 +28,5 @@ int main() {
     cin >> str;
     reverseString(str);
     cout << str;
+    
 }
